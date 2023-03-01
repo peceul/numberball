@@ -1,3 +1,5 @@
+# Python 스크립트 파일로 만든 숫자야구 게임
+
 import random as rd
 import sys
 
